@@ -1,5 +1,7 @@
 ## Benchmarking LLMs through utilization of chess
 
+done in two person team, by myself (<strong>[@Thopterek](https://github.com/Thopterek)</strong>) and <strong>[@itsiros](https://github.com/itsiros)</strong>
+
 <img width="1165" height="624" alt="image" src="https://github.com/user-attachments/assets/2297a121-86a7-44e5-8d78-dc3db536e016" />
 
 <img width="1032" height="619" alt="image" src="https://github.com/user-attachments/assets/13689989-5b4e-4a28-ac04-26dd8e248aaa" />
